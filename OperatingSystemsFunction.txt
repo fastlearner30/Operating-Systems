@@ -1,0 +1,1 @@
+One functin of an operating system is security. They often use password protection and other methods. This prevents unauthorized access to the data and programs.
